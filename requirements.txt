@@ -1,0 +1,6 @@
+flask
+revChatGPT
+opencv-python
+pytesseract
+nltk
+np
