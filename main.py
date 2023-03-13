@@ -1,4 +1,4 @@
-from revChatGPT.revChatGPT import Chatbot
+from revChatGPT.V3 import Chatbot
 import json, cv2
 import pytesseract, nltk, re, np, random, os
 from flask import Flask, request, jsonify, render_template
