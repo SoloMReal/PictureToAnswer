@@ -1,4 +1,4 @@
-# ChatGPTAssignment
-Takes text from any image/assignment and then converts it to get the questions using ChatGPT.
+# PictureToAnswer
+Takes an image -> converts to answers
 
 This GitHub repo is for educational purposes only. 
